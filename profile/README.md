@@ -4,6 +4,8 @@ The **Backseat Drivers Trainer** is a full-featured enhancement utility built to
 
 It’s an intuitive, safe, and highly customizable tool designed to bring the best out of every race and mission inside *Backseat Drivers*.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://backseat-drivers-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
